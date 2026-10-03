@@ -1,0 +1,10 @@
+# Generated on 2026-11-10
+
+# This file is used to override language statistics
+examples/site/* linguist-vendored
+*.ts linguist-detectable
+*.yaml linguist-detectable=false
+
+*.ico binary
+*.bat text eol=crlf
+*.tsx linguist-detectable
